@@ -10,8 +10,8 @@ Multi-user support with concurrent connections
 Easy setup and execution with Java
 
 # Usage:
-Start the server.
+Start the server
 
-Launch one or more clients to chat.
+Launch one or more clients to chat
 
-Ideal for learning Java networking and GUI basics.
+Ideal for learning Java networking and GUI basics
